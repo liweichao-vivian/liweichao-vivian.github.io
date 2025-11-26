@@ -15,7 +15,7 @@ cv_pdf: /assets/pdf/CV_LiWeiChao_long.pdf # path to your CV PDF file
 email: chao5@llnl.gov # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: liweichao-vivian # your GitHub user name
+github_username: liweichao-vivian # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -26,10 +26,10 @@ email: chao5@llnl.gov # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: li-wei-chao-vivian# your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: 0000-0001-9977-8784 # your ORCID ID
+orcid_id: 0000-0001-9977-8784 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
