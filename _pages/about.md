@@ -7,7 +7,7 @@ subtitle: Postdoctoral Research, Lawrence Livermore National Laboratory
 
 profile:
   align: right
-  image: photo_lwc.jpg
+  image: photo_lwc.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
 
