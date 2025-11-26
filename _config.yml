@@ -4,10 +4,10 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Li-Wei
-middle_name: blank
+middle_name: 
 last_name: Chao
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Postdoctoral Researcher, Lawrence Livermore National Laboratory
 footer_text: >
