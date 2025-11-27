@@ -12,7 +12,7 @@ profile:
   more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,4 +27,4 @@ latest_posts:
 
 My research interests focus on climate science using a combination of satellite observations, earth system models, and km-scale global storm resolving models. I am particularly interested in understanding how clouds respond to climate change, which is one of the most critical yet uncertain components of our warming world. My research tackles this complex question by investigating how clouds interact with warming patterns using satellite observations, evaluating global climate models and storm-resolving models in representing cloud processes, and exploring how satellite observations and model evaluations can improve future climate projections.
 
----
+Feel free to contact me at chao5@llnl.gov
