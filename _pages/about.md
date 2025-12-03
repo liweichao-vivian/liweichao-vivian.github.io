@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral Research, Lawrence Livermore National Laboratory
 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
