@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-15'
+  last_updated: '2025-12-31'
 papers:
   mBU6WhkAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -38,17 +38,13 @@ papers:
     title: 'Reevaluation of Energy Balance Framework Against Observations: A Focus on Cloud Feedback'
     year: '2023'
   mBU6WhkAAAAJ:Se3iqnhoufwC:
-    citations: 5
+    citations: 6
     title: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels
     year: '2025'
   mBU6WhkAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: 'Objective Evaluation of Earth System Models: PCMDI Metrics Package (PMP) version 3 2'
     year: Unknown Year
-  mBU6WhkAAAAJ:ULOm3_A8WrAC:
-    citations: 0
-    title: Radiative, Hydrologic, and Circulation Responses to Warming in Cess-Potter Simulations Using the Global 3.25-km SCREAM
-    year: '2025'
   mBU6WhkAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Evaluation of Individual Cloud Feedbacks in CMIP6 Models Using CERES Observations
@@ -66,7 +62,7 @@ papers:
     title: 'Withdrawn: Methods of Evaluating the Interannual Cloud Feedback and Its Uncertainties'
     year: '2020'
   mBU6WhkAAAAJ:Y0pCki6q_DkC:
-    citations: 20
+    citations: 21
     title: Evaluating cloud feedback components in observations and their representation in climate models
     year: '2024'
   mBU6WhkAAAAJ:YOwf2qJgpHMC:
