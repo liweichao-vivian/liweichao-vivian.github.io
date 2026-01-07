@@ -1,10 +1,6 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-07'
 papers:
-  mBU6WhkAAAAJ:0EnyYjriUFMC:
-    citations: 9
-    title: "Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3, Geosci. Model Dev., 17, 3919\u20133948, 10.5194"
-    year: '2024'
   mBU6WhkAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model
@@ -49,10 +45,6 @@ papers:
     citations: 0
     title: Evaluation of Individual Cloud Feedbacks in CMIP6 Models Using CERES Observations
     year: '2022'
-  mBU6WhkAAAAJ:UebtZRa9Y70C:
-    citations: 3
-    title: Bayesian inversion, uncertainty analysis and inter-1075 rogation using boosting variational inference
-    year: '2024'
   mBU6WhkAAAAJ:W7OEmFMy1HYC:
     citations: 1
     title: Climate Feedbacks
@@ -86,16 +78,8 @@ papers:
     title: "Evaluating mean state cloud properties in the simple cloud\u2010resolving E3SM atmosphere model (SCREAM)"
     year: '2025'
   mBU6WhkAAAAJ:eQOLeE2rZwMC:
-    citations: 20
+    citations: 32
     title: 'Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3'
-    year: '2024'
-  mBU6WhkAAAAJ:hqOjcs7Dif8C:
-    citations: 10
-    title: "Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3, Geosci. Model Dev., 17, 3919\u20133948"
-    year: '2024'
-  mBU6WhkAAAAJ:kNdYIx-mwKoC:
-    citations: 5
-    title: "Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3, Geoscientific Model Development, 17, 3919\u20133948"
     year: '2024'
   mBU6WhkAAAAJ:qjMakFHDy7sC:
     citations: 9
