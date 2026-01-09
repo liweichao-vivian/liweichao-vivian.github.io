@@ -19,26 +19,14 @@
       year: 2018 - 2023
 
 - title: Awards and Fellowship
-  type: time_table
+  type: list
   contents:
-    - year: 2024
-      items:
-        - LLNL Atmospheric, Earth, & Energy Division Stand Out Award for being selected as one of the finalists for the Research SLAM, Lawrence Livermore National Laboratory
-    - year: 2024
-      items:
-        - LLNL Physical and Life Sciences Directorate Award for excellence in publication for Lee et al. (2024), Lawrence Livermore National Laboratory
-    - year: 2020
-      items:
-        - Future Investigators in NASA Earth and Space Science and Technology Award (FINESST), NASA
-    - year: 2021
-      items:
-        - Government Scholarship to Study Abroad, Ministry of Education, Taiwan
-    - year: 2018
-      items:
-        - College Student Research Creativity Award, Ministry of Science and Technology, Taiwan
-    - year: 2017
-      items:
-        - College Student Research Scholarship, Ministry of Science and Technology, Taiwan
+    - LLNL Atmospheric, Earth, & Energy Division Stand Out Award for being selected as one of the finalists for the Research SLAM, Lawrence Livermore National Laboratory, 2024
+    - LLNL Physical and Life Sciences Directorate Award for excellence in publication for Lee et al. (2024), Lawrence Livermore National Laboratory, 2024
+    - Future Investigators in NASA Earth and Space Science and Technology Award (FINESST), NASA, 2020-2023
+    - Government Scholarship to Study Abroad, Ministry of Education, Taiwan, 2021-2023
+    - College Student Research Creativity Award, Ministry of Science and Technology, Taiwan, 2018
+    - College Student Research Scholarship, Ministry of Science and Technology, Taiwan, 2017
     
         
         
