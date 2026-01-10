@@ -13,7 +13,7 @@ toc:
 * **Chao, L.-W.**, M. D. Zelinka, C. R. Terai, H. Beydoun, B. R. Hillman, N. D. Keen, P. M. Caldwell, P. A. Bogenschutz & S. A. Klein. Examining Cloud Feedback Components in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM). *Journal of Climate*. 
 
 #### 2026
-* **Chao, L-W.**, A. E. Dessler, & M. D. Zelinka (2026). Climate Feedbacks. In: Robinson, W.A. (Ed.), Encyclopedia of Atmospheric Sciences, vol. 5. Elsevier, Academic Press, pp. 117–128. doi:[10.1016/B978-0-323-96026-7.00038-2](https://dx.doi.org/10.1016/B978-0-323-96026-7.00038-2)
+* **Chao, L.-W.**, A. E. Dessler, & M. D. Zelinka (2026). Climate Feedbacks. In: Robinson, W.A. (Ed.), Encyclopedia of Atmospheric Sciences, vol. 5. Elsevier, Academic Press, pp. 117–128. doi:[10.1016/B978-0-323-96026-7.00038-2](https://dx.doi.org/10.1016/B978-0-323-96026-7.00038-2)
 
 #### 2025
 * **Chao, L.-W.**, M. D. Zelinka, C. R. Terai, H. Beydoun, B. R. Hillman, N. D. Keen, P. M. Caldwell, & S. A. Klein (2025). Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM). *Journal of Advances in Modeling Earth Systems*, 17, e2025MS005133. doi:[10.1029/2025MS005133](https://doi.org/10.1029/2025MS005133)
