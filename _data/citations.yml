@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-16'
 papers:
   mBU6WhkAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model
     year: '2025'
   mBU6WhkAAAAJ:4TOpqqG69KYC:
@@ -29,12 +29,16 @@ papers:
     citations: 0
     title: Understanding Biases in Simulated Cloud Radiative Effects in E3SMv3
     year: '2025'
+  mBU6WhkAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Understanding biases in simulated Cloud radiative effects in E3SMv3
+    year: '2026'
   mBU6WhkAAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: 'Reevaluation of Energy Balance Framework Against Observations: A Focus on Cloud Feedback'
     year: '2023'
   mBU6WhkAAAAJ:Se3iqnhoufwC:
-    citations: 8
+    citations: 9
     title: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels
     year: '2025'
   mBU6WhkAAAAJ:Tyk-4Ss8FVUC:
@@ -54,7 +58,7 @@ papers:
     title: 'Withdrawn: Methods of Evaluating the Interannual Cloud Feedback and Its Uncertainties'
     year: '2020'
   mBU6WhkAAAAJ:Y0pCki6q_DkC:
-    citations: 21
+    citations: 23
     title: Evaluating cloud feedback components in observations and their representation in climate models
     year: '2024'
   mBU6WhkAAAAJ:YOwf2qJgpHMC:
@@ -66,7 +70,7 @@ papers:
     title: 'Objective evaluation of earth system models: PCMDI metrics package (PMP) version 3'
     year: '2023'
   mBU6WhkAAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 2
     title: "Radiative, hydrologic, and circulation responses to warming in Cess\u2010Potter simulations using the global 3.25\u2010km SCREAM"
     year: '2025'
   mBU6WhkAAAAJ:_FxGoFyzp5QC:
@@ -78,15 +82,19 @@ papers:
     title: "Evaluating mean state cloud properties in the simple cloud\u2010resolving E3SM atmosphere model (SCREAM)"
     year: '2025'
   mBU6WhkAAAAJ:eQOLeE2rZwMC:
-    citations: 37
+    citations: 38
     title: 'Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3'
     year: '2024'
   mBU6WhkAAAAJ:qjMakFHDy7sC:
     citations: 10
     title: An assessment of climate feedbacks in observations and climate models using different energy balance frameworks
     year: '2021'
+  mBU6WhkAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: Examining Cloud Feedback Components in the Simple Cloud-Resolving E3SM Atmosphere Model (SCREAM)
+    year: '2026'
   mBU6WhkAAAAJ:roLk4NBRz8UC:
-    citations: 2
+    citations: 3
     title: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM
     year: '2025'
   mBU6WhkAAAAJ:u-x6o8ySG0sC:
