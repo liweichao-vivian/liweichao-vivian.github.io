@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-15'
 papers:
   mBU6WhkAAAAJ:3fE2CSJIrl8C:
     citations: 1
@@ -82,7 +82,7 @@ papers:
     title: Examining Cloud Feedback Components in DOE's Global Storm Resolving Model
     year: '2024'
   mBU6WhkAAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: "Evaluating mean state cloud properties in the simple cloud\u2010resolving E3SM atmosphere model (SCREAM)"
     year: '2025'
   mBU6WhkAAAAJ:aqlVkmm33-oC:
@@ -90,7 +90,7 @@ papers:
     title: Relationships between feedback components alter estimates of total radiative feedback and climate sensitivity
     year: '2026'
   mBU6WhkAAAAJ:eQOLeE2rZwMC:
-    citations: 39
+    citations: 40
     title: 'Systematic and objective evaluation of Earth system models: PCMDI Metrics Package (PMP) version 3'
     year: '2024'
   mBU6WhkAAAAJ:qjMakFHDy7sC:
