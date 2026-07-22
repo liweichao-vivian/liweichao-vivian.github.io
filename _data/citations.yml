@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-22'
 papers:
   mBU6WhkAAAAJ:3fE2CSJIrl8C:
     citations: 1
     title: Evaluating Mean State Cloud Properties in the Simple Cloud-Resolving E3SM Atmosphere Model
     year: '2025'
   mBU6WhkAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 1
     title: Recent cloud trends and extremes reaffirm established bounds on cloud feedback and aerosol-cloud interactions
     year: '2026'
   mBU6WhkAAAAJ:4TOpqqG69KYC:
@@ -38,7 +38,7 @@ papers:
     title: 'Reevaluation of Energy Balance Framework Against Observations: A Focus on Cloud Feedback'
     year: '2023'
   mBU6WhkAAAAJ:Se3iqnhoufwC:
-    citations: 13
+    citations: 14
     title: Recommendations for diagnosing cloud feedbacks and rapid cloud adjustments using cloud radiative kernels
     year: '2025'
   mBU6WhkAAAAJ:Tyk-4Ss8FVUC:
